@@ -1,0 +1,10 @@
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.deps.json
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.json
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.dev.json
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.dll
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.pdb
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.csprojResolveAssemblyReference.cache
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.csproj.CoreCompileInputs.cache
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.AssemblyInfo.cs
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.dll
+E:\Asp.net Examples\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\02 - Your First MVC Application\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.pdb
